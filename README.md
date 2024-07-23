@@ -22,7 +22,7 @@ The project is divided into several packages and classes:
 
 ## Setup and Running the Project
 1. Clone the repository from GitHub:
-  git clone https://github.com/yourusername/ecommerce-jdbc.git
+  git clone https://github.com/akshaybarge315/ecommerce-jdbc.git
 2. Import the project into your preferred IDE.
 3. Set up your database and create the required tables using the provided SQL scripts.
 4. Update the database connection details in the UserDAOImpl, ProductDAOImpl, OrderDAOImpl, and OrderItemDAOImpl classes.
